@@ -1,2 +1,1 @@
-tup=(1,)
-print(type(tup), tup)
+print(" rawxtsecydrvfutbigwesdrvtfbg")
